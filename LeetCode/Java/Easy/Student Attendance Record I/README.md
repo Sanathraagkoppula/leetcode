@@ -1,6 +1,6 @@
 # 📝 Student Attendance Record I (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/student-attendance-record-i/)
+🔗 [Problem Link](https://leetcode.com/problems/student-attendance-record-i)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,7 +8,7 @@
 String
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
