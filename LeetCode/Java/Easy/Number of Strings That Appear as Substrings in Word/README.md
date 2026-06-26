@@ -1,6 +1,6 @@
 # 📝 Number of Strings That Appear as Substrings in Word (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)
+🔗 [Problem Link](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
