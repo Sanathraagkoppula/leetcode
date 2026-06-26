@@ -3,7 +3,7 @@ class Solution {
         int ab=0;
         int i;
         char arr[]=s.toCharArray();
-        for(i=0;i<arr.length;i++){
+        for(i=0;i<.length;i++){
             char c = arr[i];
             if(c=='A') ab++;
             if(ab>=2){
