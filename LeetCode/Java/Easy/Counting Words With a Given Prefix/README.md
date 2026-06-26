@@ -1,6 +1,6 @@
 # 📝 Counting Words With a Given Prefix (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/counting-words-with-a-given-prefix/)
+🔗 [Problem Link](https://leetcode.com/problems/counting-words-with-a-given-prefix)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,7 +8,7 @@
 Array, String, String Matching
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
