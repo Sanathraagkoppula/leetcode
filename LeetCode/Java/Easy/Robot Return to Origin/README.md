@@ -1,6 +1,6 @@
 # 📝 Robot Return to Origin (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/robot-return-to-origin)
+🔗 [Problem Link](https://leetcode.com/problems/robot-return-to-origin/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
