@@ -9,4 +9,4 @@ class Solution {
     }
 }
 
-return 
+return ! (s.contains("ba");)
