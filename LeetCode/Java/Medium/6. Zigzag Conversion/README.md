@@ -9,7 +9,7 @@ String
 
 ### 🚀 Performance
 - **Runtime:** N/A
-- **Memory:** 45.9 MB
+- **Memory:** N/A
 
 ---
 
