@@ -11,7 +11,6 @@ class Solution {
         boolean goingDown = false;
         for (char c : s.toCharArray()) {
             rows[currentRow].append(c);
-
             if (currentRow == 0 || currentRow == numRows - 1) {
                 goingDown = !goingDown;
             }
