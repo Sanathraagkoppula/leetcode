@@ -6,12 +6,11 @@ class Solution {
         int left = 0;
         int right = matrix[0].length - 1;
         while (top <= bottom && left <= right) {
-
             for (int j = left; j <= right; j++) {
                 result.add(matrix[top][j]);
             }
             top++;
-            for (int i = top; i <= bottom; i++) {
+             for (int i = top; i <= bottom; i++) {
                 result.add(matrix[i][right]);
             }
             right--;
